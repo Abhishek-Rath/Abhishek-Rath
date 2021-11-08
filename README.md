@@ -1,8 +1,7 @@
 ## Hi there 👋 
 
 
-## I'm Abhishek Rath - a Student, Programmer, Blogger
-I am a developer who is passionate about Web development and Data Science. I am currently working on Django and JavaScript.
+![Screenshot](https://github.com/Abhishek-Rath/Abhishek-Rath/blob/f308069ba85d758a5453c10592d269a3128928ae/Abhishek%20Rath.png)
 
 
 #### About me:
