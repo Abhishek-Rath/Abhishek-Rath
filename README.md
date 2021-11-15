@@ -4,7 +4,7 @@
 ![Screenshot](https://github.com/Abhishek-Rath/Abhishek-Rath/blob/f308069ba85d758a5453c10592d269a3128928ae/Abhishek%20Rath.png)
 
 
-#### About me:
+### About me:
 
 - 👨‍🎓 Junior Student at SPPU.
 - 💻 Currently working on Django and vanilla JS.
@@ -19,7 +19,7 @@
 
 
 
-##### Connect with me
+### Connect with me
 
  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi.rath39@gmail.com)
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rath/)
