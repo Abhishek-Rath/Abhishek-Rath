@@ -9,7 +9,7 @@
 - 👨‍🎓 Junior Student at SPPU.
 - 💻 Currently working on Django and vanilla JS.
 - 🎯 Focusing on improving my problem solving skills.
-- 🥅 Goals 2021: Learn MERN Stack.
+- 🥅 Goals 2021: Learn Reactjs.
 - 📄 Know about me more https://drive.google.com/file/d/1D5gz9tELYEtqd02CEZVJiTxqvQHkvQmA/view?usp=sharing
 - 🧑🏼 Preferred pronouns: He/Him/His.
 - ⚡ Fun facts: Learning Japanese (日本語), Like to watch anime.
