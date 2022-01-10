@@ -11,7 +11,7 @@
 - 💻 Currently working on Django and vanilla JS.
 - 🎯 Focusing on improving my problem solving skills.
 - 🥅 Goals 2021: Learn Reactjs.
-- 📄 Know about me more https://drive.google.com/file/d/1D5gz9tELYEtqd02CEZVJiTxqvQHkvQmA/view?usp=sharing
+- 📄 Know about me more https://drive.google.com/file/d/1BOI-YUt_CT5oqBFKNSFBuhIXzt7CD5C4/view?usp=sharing
 - 🧑🏼 Preferred pronouns: He/Him/His.
 - ⚡ Fun facts: Learning Japanese (日本語), Like to watch anime.
 
@@ -28,7 +28,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rath&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Rath&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
