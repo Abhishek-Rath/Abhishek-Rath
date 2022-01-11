@@ -11,7 +11,7 @@
 - 💻 Currently working on Django and vanilla JS.
 - 🎯 Focusing on improving my problem solving skills.
 - 🥅 Goals 2022: Learn MERN Stack.
-- 📄 Know about me more https://drive.google.com/file/d/1BOI-YUt_CT5oqBFKNSFBuhIXzt7CD5C4/view?usp=sharing
+- 📄 Know about me more https://drive.google.com/file/d/1tTWxrABT72642LZ7Pftza_njNzTpw6uk/view?usp=sharing
 - 🧑🏼 Preferred pronouns: He/Him/His.
 - ⚡ Fun facts: Learning Japanese (日本語), Like to watch anime.
 
