@@ -2,18 +2,19 @@
 ![Screenshot](https://github.com/Abhishek-Rath/Abhishek-Rath/blob/f308069ba85d758a5453c10592d269a3128928ae/Abhishek%20Rath.png)
 
 
-## Hi there 👋, I'm Abhishek Rath
+<h1 align="center"> Hi there 👋, I'm Abhishek Rath </h1>
 
 
 ### About me:
 
-- 👨‍🎓 Junior Student at SPPU.
-- 💻 Currently working on Django and vanilla JS.
+- 👨‍🎓 Pursuing B.Tech in Computer Science
+- 💻 Currently working on Django, JS frameworks.
 - 🎯 Focusing on improving my problem solving skills.
 - 🥅 Goals 2022: Learn MERN Stack.
-- 📄 Know about me more https://drive.google.com/file/d/1tTWxrABT72642LZ7Pftza_njNzTpw6uk/view?usp=sharing
+- 📄 Know about me more https://drive.google.com/file/d/1Vyv-ev04xou4WUuEiyTOnUgOT2WMN6UZ/view?usp=sharing
 - 🧑🏼 Preferred pronouns: He/Him/His.
-- ⚡ Fun facts: Learning Japanese (日本語), Like to watch anime.
+- 📚 Currently reading Harry Potter and the Chamber of Secrets.
+- ⚡ Fun facts: **Learning Japanese (日本語), Like to watch anime**
 
 
 ### Connect with me
