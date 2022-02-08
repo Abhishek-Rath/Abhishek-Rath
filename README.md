@@ -8,13 +8,18 @@
 ### About me:
 
 - 👨‍🎓 Pursuing B.Tech in Computer Science
+
 - 💻 Currently working on Django, JS frameworks.
+
 - 🎯 Focusing on improving my problem solving skills.
+
 - 🥅 Goals 2022: Learn MERN Stack.
+
 - 📄 Know about me more https://drive.google.com/file/d/1Vyv-ev04xou4WUuEiyTOnUgOT2WMN6UZ/view?usp=sharing
-- 🧑🏼 Preferred pronouns: He/Him/His.
+
 - 📚 Currently reading Harry Potter and the Chamber of Secrets.
-- ⚡ Fun facts: **Learning Japanese (日本語), Like to watch anime**
+
+- ⚡ Fun facts: **Learning Japanese (日本語), Anime lover😎**
 
 
 ### Connect with me
