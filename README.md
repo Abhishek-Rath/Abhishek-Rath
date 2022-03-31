@@ -13,11 +13,11 @@
 
 - 🎯 Focusing on improving my problem solving skills.
 
-- 🥅 Goals 2022: Learn MERN Stack.
+- 🥅 Goals 2022: Learn MERN Stack, Machine Learning.
 
 - 📄 Know about me more https://drive.google.com/file/d/1Vyv-ev04xou4WUuEiyTOnUgOT2WMN6UZ/view?usp=sharing
 
-- 📚 Currently reading Harry Potter and the Chamber of Secrets.
+- 📚 Currently reading The Classroomm of Elite Light Novel.
 
 - ⚡ Fun facts: **Learning Japanese (日本語), Anime lover😎**
 
