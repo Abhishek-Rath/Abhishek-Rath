@@ -9,11 +9,11 @@
 
 - 👨‍🎓 Pursuing B.Tech in Computer Science
 
-- 💻 Currently working on Django, JS frameworks.
+- 💻 Currently learning MERN Stack.
 
 - 🎯 Focusing on improving my problem solving skills.
 
-- 🥅 Goals 2022: Learn MERN Stack, Machine Learning.
+- 🥅 Goals 2022: Machine Learning.
 
 - 📄 Know about me more https://drive.google.com/file/d/1_oL9hx5YW26zfKeVCgUOzMrQYIwcPdrF/view?usp=sharing
 
