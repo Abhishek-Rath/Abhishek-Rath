@@ -9,7 +9,7 @@
 
 - 👨‍🎓 Pursuing B.Tech in Computer Science
 
-- 💻 Currently learning MERN Stack.
+- 💻 Currently learning ML.
 
 - 🎯 Focusing on improving my problem solving skills.
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about me more https://drive.google.com/file/d/1IyGa32Cf4N58Q5bREvgJECio0WTFk6sq/view?usp=sharing
 
-- 📚 Currently reading The Classroomm of Elite Light Novel.
+<!-- - 📚 Currently reading The Classroomm of Elite Light Novel. -->
 
 - ⚡ Fun facts: **Learning Japanese (日本語), Anime lover😎**
 
@@ -50,8 +50,8 @@
  <br> <br>
 ## GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rath&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rath&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Rath&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Rath&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Rath&" alt="Abhishek-Rath" />
