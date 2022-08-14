@@ -17,7 +17,7 @@
 
 <!-- - 📄 Know about me more https://drive.google.com/file/d/1_oL9hx5YW26zfKeVCgUOzMrQYIwcPdrF/view?usp=sharing -->
 
-- 📄 Know about me more https://drive.google.com/file/d/1IyGa32Cf4N58Q5bREvgJECio0WTFk6sq/view?usp=sharing
+<!-- - 📄 Know about me more https://drive.google.com/file/d/1IyGa32Cf4N58Q5bREvgJECio0WTFk6sq/view?usp=sharing -->
 
 <!-- - 📚 Currently reading The Classroomm of Elite Light Novel. -->
 
