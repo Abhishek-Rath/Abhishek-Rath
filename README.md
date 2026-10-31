@@ -1,57 +1,36 @@
+<img src="baner.svg" alt="Abhishek Rath — Software Engineer @ EY | distributed systems, backend, python, aws, rest apis" width="100%"/>
 
-![Screenshot](https://github.com/Abhishek-Rath/Abhishek-Rath/blob/f308069ba85d758a5453c10592d269a3128928ae/Abhishek%20Rath.png)
+### About
 
+I'm a backend engineer at **EY**, building services for enterprise supply-chain and dispatch planning solution platforms used by leading FMCG clients.
 
-<h1 align="center"> Hi there 👋, I'm Abhishek Rath </h1>
+- Built a load-optimization service that takes forecast-driven solver jobs from **minutes to ~200 ms** response time, running **300+ times a day** in production.
+- Designed token-based auth with short-lived access tokens and rotating refresh tokens stored in [PostgreSQL], adding expiry, revocation and reuse detection to secure order-management and optimization APIs.
+- Re-architected licensed solver deployments to cut **recurring licence costs by ~40%**
+- Sped up PySpark jobs over **2M+ daily records by ~30%** and cut deploys from **30 to 8 minutes**
+- B.E. Computer Engineering (Honors in Data Science), SPPU · CGPA 9.3
 
+Outside work: anime, and slowly getting better at 日本語.
 
-### About me:
+### Stack
 
-- 👨‍🎓 Pursuing B.Tech in Computer Science
+<img src="https://skillicons.dev/icons?i=py,postgres,redis,aws,docker,kubernetes,django,flask,git,linux&theme=dark" alt="Tech stack" />
 
-- 💻 Currently learning ML.
+<!-- Also: aiohttp · asyncio · Dramatiq · Django REST Framework · PySpark · AWS Lambda / ECS / EMR -->
 
-- 🎯 Focusing on improving my problem solving skills.
+<!-- Add your flagship project as the first row once it's live -->
 
-- 🥅 Goals 2022: Machine Learning.
+### GitHub
 
-<!-- - 📄 Know about me more https://drive.google.com/file/d/1_oL9hx5YW26zfKeVCgUOzMrQYIwcPdrF/view?usp=sharing -->
+<p>
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rath&show_icons=true&count_private=true&hide_border=true&bg_color=272822&title_color=f92672&icon_color=a6e22e&text_color=f8f8f2" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rath&layout=compact&langs_count=6&hide_border=true&bg_color=272822&title_color=f92672&text_color=f8f8f2" alt="Top languages" />
+</p> -->
+<img src="https://streak-stats.demolab.com?user=Abhishek-Rath&hide_border=true&background=272822&ring=F92672&fire=F92672&currStreakLabel=A6E22E&stroke=3E3D32&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=75715E" alt="GitHub streak" />
 
-<!-- - 📄 Know about me more https://drive.google.com/file/d/1IyGa32Cf4N58Q5bREvgJECio0WTFk6sq/view?usp=sharing -->
+### Connect
 
-<!-- - 📚 Currently reading The Classroomm of Elite Light Novel. -->
-
-- ⚡ Fun facts: **Learning Japanese (日本語), Anime lover😎**
-
-
-### Connect with me
-
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi.rath39@gmail.com)
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rath/)
- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/th3lazyc0d3r)
- [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhishek_rath)
- <br> <br>
-<h2>Languages and Tools:</h2>
-
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/django/django.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/flask/flask.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/bootstrap/bootstrap.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></img>
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
-<img height="50px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></img>
- <br> <br>
-## GitHub Stats
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rath&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Rath&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Rath&" alt="Abhishek-Rath" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=F92672)](https://www.linkedin.com/in/abhishek-rath/)
+[![Email](https://img.shields.io/badge/Email-272822?style=for-the-badge&logo=gmail&logoColor=F92672)](mailto:abhi.rath39@gmail.com)
+[![X](https://img.shields.io/badge/X-272822?style=for-the-badge&logo=x&logoColor=F92672)](https://twitter.com/th3lazyc0d3r)
+[![dev.to](https://img.shields.io/badge/dev.to-272822?style=for-the-badge&logo=devdotto&logoColor=F92672)](https://dev.to/abhishek_rath)
