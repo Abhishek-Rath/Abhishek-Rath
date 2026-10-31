@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+  <style>
+    .c  { font-family: Consolas, Menlo, Monaco, 'Courier New', monospace; font-size: 18px; }
+    .ln { fill: #90908a; }
+    .fg { fill: #f8f8f2; }
+    .cm { fill: #75715e; }
+    .kw { fill: #f92672; }
+    .st { fill: #e6db74; }
+    .bl { fill: #66d9ef; }
+    .gr { fill: #a6e22e; }
+    .cursor { fill: #f8f8f0; animation: blink 1.1s step-end infinite; }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+  </style>
+
+  <!-- Editor background -->
+  <rect width="1200" height="440" rx="12" fill="#272822"/>
+
+  <!-- Tab bar -->
+  <path d="M12 0 H1188 A12 12 0 0 1 1200 12 V40 H0 V12 A12 12 0 0 1 12 0 Z" fill="#1e1f1c"/>
+  <path d="M0 40 V12 A12 12 0 0 1 12 0 H200 V40 Z" fill="#272822"/>
+  <text x="24" y="26" font-family="Consolas, Menlo, monospace" font-size="14" fill="#f8f8f2">whoami.py</text>
+  <text x="176" y="26" font-family="Consolas, Menlo, monospace" font-size="14" fill="#75715e">×</text>
+  <text x="224" y="26" font-family="Consolas, Menlo, monospace" font-size="14" fill="#75715e">README.md</text>
+
+  <!-- Current-line highlight (line 10) -->
+  <rect x="0" y="337" width="1070" height="30" fill="#3e3d32"/>
+
+  <!-- Line numbers -->
+  <g class="c ln" text-anchor="end">
+    <text x="58" y="88">1</text>
+    <text x="58" y="118">2</text>
+    <text x="58" y="148">3</text>
+    <text x="58" y="178">4</text>
+    <text x="58" y="208">5</text>
+    <text x="58" y="238">6</text>
+    <text x="58" y="268">7</text>
+    <text x="58" y="298">8</text>
+    <text x="58" y="328">9</text>
+    <text x="58" y="358" fill="#f8f8f2">10</text>
+  </g>
+
+  <!-- Code -->
+  <g class="c">
+    <text x="90" y="88" class="cm"># whoami.py</text>
+
+    <text x="90" y="148"><tspan class="bl" font-style="italic">class</tspan><tspan class="fg"> </tspan><tspan class="gr">Abhishek</tspan><tspan class="fg">:</tspan></text>
+
+    <text x="90" y="178" xml:space="preserve"><tspan class="fg">    role   </tspan><tspan class="kw">=</tspan><tspan class="fg"> </tspan><tspan class="st">"Software Engineer"</tspan></text>
+
+    <text x="90" y="208" xml:space="preserve"><tspan class="fg">    skills </tspan><tspan class="kw">=</tspan><tspan class="fg"> [</tspan><tspan class="st">"distributed systems"</tspan><tspan class="fg">, </tspan><tspan class="st">"backend"</tspan><tspan class="fg">, </tspan><tspan class="st">"python"</tspan><tspan class="fg">,</tspan></text>
+
+    <text x="90" y="238" xml:space="preserve"><tspan class="fg">              </tspan><tspan class="st">"aws"</tspan><tspan class="fg">, </tspan><tspan class="st">"rest apis"</tspan><tspan class="fg">, </tspan><tspan class="st">"postgres"</tspan><tspan class="fg">, </tspan><tspan class="st">"redis"</tspan><tspan class="fg">]</tspan></text>
+
+    <text x="90" y="268" xml:space="preserve"><tspan class="fg">    based  </tspan><tspan class="kw">=</tspan><tspan class="fg"> </tspan><tspan class="st">"Pune, India"</tspan></text>
+
+    <text x="90" y="328" xml:space="preserve"><tspan class="kw">if</tspan><tspan class="fg"> </tspan><tspan class="bl">__name__</tspan><tspan class="fg"> </tspan><tspan class="kw">==</tspan><tspan class="fg"> </tspan><tspan class="st">"__main__"</tspan><tspan class="fg">:</tspan></text>
+
+    <text x="90" y="358" xml:space="preserve"><tspan class="fg">    Abhishek().</tspan><tspan class="bl">ship</tspan><tspan class="fg">()</tspan><tspan class="cursor">▍</tspan></text>
+  </g>
+
+  <!-- Minimap -->
+  <g fill="#f8f8f2" opacity="0.28">
+    <rect x="1092" y="62"  width="14" height="3"/>
+    <rect x="1092" y="76"  width="20" height="3"/>
+    <rect x="1092" y="83"  width="48" height="3"/>
+    <rect x="1092" y="90"  width="75" height="3"/>
+    <rect x="1092" y="97"  width="69" height="3"/>
+    <rect x="1092" y="104" width="31" height="3"/>
+    <rect x="1092" y="118" width="34" height="3"/>
+    <rect x="1092" y="125" width="27" height="3"/>
+  </g>
+  <rect x="1084" y="54" width="94" height="80" fill="#ffffff" opacity="0.05"/>
+
+  <!-- Status bar -->
+  <path d="M0 400 H1200 V428 A12 12 0 0 1 1188 440 H12 A12 12 0 0 1 0 428 Z" fill="#1e1f1c"/>
+  <text x="20" y="425" font-family="Consolas, Menlo, monospace" font-size="13" fill="#a6a69c">Line 10, Column 22</text>
+  <text x="1180" y="425" font-family="Consolas, Menlo, monospace" font-size="13" fill="#a6a69c" text-anchor="end">Spaces: 4      Python</text>
+</svg>
